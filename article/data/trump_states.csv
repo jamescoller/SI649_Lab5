@@ -1,0 +1,520 @@
+﻿question_id,poll_id,state,pollster,sponsors,display_name,pollster_rating_id,pollster_rating_name,fte_grade,sample_size,population,population_full,methodology,office_type,start_date,end_date,answer,candidate_name,candidate_party,pct,lat,long
+102800,59598,Arizona,Bendixen & Amandi International,SMART Local 359,Bendixen & Amandi International,29,Bendixen & Amandi International,B-,520,rv,rv,Live Phone,U.S. President,9/9/19,9/12/19,Sanders,Bernard Sanders,DEM,37,34.048928,-111.093731
+102800,59598,Arizona,Bendixen & Amandi International,SMART Local 359,Bendixen & Amandi International,29,Bendixen & Amandi International,B-,520,rv,rv,Live Phone,U.S. President,9/9/19,9/12/19,Trump,Donald Trump,REP,45,34.048928,-111.093731
+102801,59598,Arizona,Bendixen & Amandi International,SMART Local 359,Bendixen & Amandi International,29,Bendixen & Amandi International,B-,520,rv,rv,Live Phone,U.S. President,9/9/19,9/12/19,Harris,Kamala D. Harris,DEM,38,34.048928,-111.093731
+102801,59598,Arizona,Bendixen & Amandi International,SMART Local 359,Bendixen & Amandi International,29,Bendixen & Amandi International,B-,520,rv,rv,Live Phone,U.S. President,9/9/19,9/12/19,Trump,Donald Trump,REP,42,34.048928,-111.093731
+102802,59598,Arizona,Bendixen & Amandi International,SMART Local 359,Bendixen & Amandi International,29,Bendixen & Amandi International,B-,520,rv,rv,Live Phone,U.S. President,9/9/19,9/12/19,Biden,Joseph R. Biden Jr.,DEM,42,34.048928,-111.093731
+102802,59598,Arizona,Bendixen & Amandi International,SMART Local 359,Bendixen & Amandi International,29,Bendixen & Amandi International,B-,520,rv,rv,Live Phone,U.S. President,9/9/19,9/12/19,Trump,Donald Trump,REP,43,34.048928,-111.093731
+102803,59598,Arizona,Bendixen & Amandi International,SMART Local 359,Bendixen & Amandi International,29,Bendixen & Amandi International,B-,520,rv,rv,Live Phone,U.S. President,9/9/19,9/12/19,Warren,Elizabeth Warren,DEM,42,34.048928,-111.093731
+102803,59598,Arizona,Bendixen & Amandi International,SMART Local 359,Bendixen & Amandi International,29,Bendixen & Amandi International,B-,520,rv,rv,Live Phone,U.S. President,9/9/19,9/12/19,Trump,Donald Trump,REP,42,34.048928,-111.093731
+102783,59591,California,Emerson College,,Emerson College,88,Emerson College,B+,830,rv,rv,IVR/Online,U.S. President,9/13/19,9/16/19,Biden,Joseph R. Biden Jr.,DEM,63.8,36.778261,-119.417932
+102783,59591,California,Emerson College,,Emerson College,88,Emerson College,B+,830,rv,rv,IVR/Online,U.S. President,9/13/19,9/16/19,Trump,Donald Trump,REP,36.2,36.778261,-119.417932
+102784,59591,California,Emerson College,,Emerson College,88,Emerson College,B+,830,rv,rv,IVR/Online,U.S. President,9/13/19,9/16/19,Sanders,Bernard Sanders,DEM,62.5,36.778261,-119.417932
+102784,59591,California,Emerson College,,Emerson College,88,Emerson College,B+,830,rv,rv,IVR/Online,U.S. President,9/13/19,9/16/19,Trump,Donald Trump,REP,37.5,36.778261,-119.417932
+102785,59591,California,Emerson College,,Emerson College,88,Emerson College,B+,830,rv,rv,IVR/Online,U.S. President,9/13/19,9/16/19,Harris,Kamala D. Harris,DEM,60.8,36.778261,-119.417932
+102785,59591,California,Emerson College,,Emerson College,88,Emerson College,B+,830,rv,rv,IVR/Online,U.S. President,9/13/19,9/16/19,Trump,Donald Trump,REP,39.2,36.778261,-119.417932
+102786,59591,California,Emerson College,,Emerson College,88,Emerson College,B+,830,rv,rv,IVR/Online,U.S. President,9/13/19,9/16/19,Warren,Elizabeth Warren,DEM,61.2,36.778261,-119.417932
+102786,59591,California,Emerson College,,Emerson College,88,Emerson College,B+,830,rv,rv,IVR/Online,U.S. President,9/13/19,9/16/19,Trump,Donald Trump,REP,38.8,36.778261,-119.417932
+102960,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Biden,Joseph R. Biden Jr.,DEM,57,36.778261,-119.417932
+102960,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,31,36.778261,-119.417932
+102961,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Biden,Joseph R. Biden Jr.,DEM,58,36.778261,-119.417932
+102961,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Pence,Mike Pence,REP,27,36.778261,-119.417932
+102962,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Biden,Joseph R. Biden Jr.,DEM,56,36.778261,-119.417932
+102962,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Haley,Nimrata R. Haley,REP,21,36.778261,-119.417932
+102963,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Harris,Kamala D. Harris,DEM,53,36.778261,-119.417932
+102963,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,35,36.778261,-119.417932
+102964,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Harris,Kamala D. Harris,DEM,51,36.778261,-119.417932
+102964,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Pence,Mike Pence,REP,34,36.778261,-119.417932
+102965,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Harris,Kamala D. Harris,DEM,51,36.778261,-119.417932
+102965,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Haley,Nimrata R. Haley,REP,24,36.778261,-119.417932
+102966,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,O'Rourke,Beto O'Rourke,DEM,51,36.778261,-119.417932
+102966,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,34,36.778261,-119.417932
+102967,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,O'Rourke,Beto O'Rourke,DEM,47,36.778261,-119.417932
+102967,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Pence,Mike Pence,REP,34,36.778261,-119.417932
+102968,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,O'Rourke,Beto O'Rourke,DEM,44,36.778261,-119.417932
+102968,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Haley,Nimrata R. Haley,REP,25,36.778261,-119.417932
+102969,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Warren,Elizabeth Warren,DEM,53,36.778261,-119.417932
+102969,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,35,36.778261,-119.417932
+102970,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Warren,Elizabeth Warren,DEM,50,36.778261,-119.417932
+102970,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Pence,Mike Pence,REP,33,36.778261,-119.417932
+102971,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Warren,Elizabeth Warren,DEM,49,36.778261,-119.417932
+102971,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Haley,Nimrata R. Haley,REP,25,36.778261,-119.417932
+102972,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Sanders,Bernard Sanders,DEM,57,36.778261,-119.417932
+102972,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,33,36.778261,-119.417932
+102973,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Sanders,Bernard Sanders,DEM,57,36.778261,-119.417932
+102973,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Pence,Mike Pence,REP,31,36.778261,-119.417932
+102974,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Sanders,Bernard Sanders,DEM,56,36.778261,-119.417932
+102974,59596,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,1785,rv,rv,Online,U.S. President,9/13/19,9/15/19,Haley,Nimrata R. Haley,REP,24,36.778261,-119.417932
+100344,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Biden,Joseph R. Biden Jr.,DEM,61,36.778261,-119.417932
+100344,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,27,36.778261,-119.417932
+100345,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Harris,Kamala D. Harris,DEM,59,36.778261,-119.417932
+100345,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,30,36.778261,-119.417932
+100346,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Buttigieg,Pete Buttigieg,DEM,53,36.778261,-119.417932
+100346,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,30,36.778261,-119.417932
+100347,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Warren,Elizabeth Warren,DEM,58,36.778261,-119.417932
+100347,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,30,36.778261,-119.417932
+100348,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Sanders,Bernard Sanders,DEM,62,36.778261,-119.417932
+100348,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,29,36.778261,-119.417932
+100349,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Winfrey,Oprah Winfrey,DEM,57,36.778261,-119.417932
+100349,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,28,36.778261,-119.417932
+100350,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Obama,Michelle Obama,DEM,64,36.778261,-119.417932
+100350,58836,California,SurveyUSA,KGTV-TV (California) | San Diego Union-Tribune,SurveyUSA,325,SurveyUSA,A,2184,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,28,36.778261,-119.417932
+100766,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Biden,Joseph R. Biden Jr.,DEM,54.9,39.550051,-105.782067
+100766,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Trump,Donald Trump,REP,45.1,39.550051,-105.782067
+100767,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Sanders,Bernard Sanders,DEM,54.8,39.550051,-105.782067
+100767,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Trump,Donald Trump,REP,45.2,39.550051,-105.782067
+100768,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Harris,Kamala D. Harris,DEM,51.5,39.550051,-105.782067
+100768,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Trump,Donald Trump,REP,48.5,39.550051,-105.782067
+100769,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Warren,Elizabeth Warren,DEM,53.5,39.550051,-105.782067
+100769,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Trump,Donald Trump,REP,46.5,39.550051,-105.782067
+100770,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Buttigieg,Pete Buttigieg,DEM,54.7,39.550051,-105.782067
+100770,58930,Colorado,Emerson College,,Emerson College,88,Emerson College,B+,1000,rv,rv,IVR/Online,U.S. President,8/16/19,8/19/19,Trump,Donald Trump,REP,45.3,39.550051,-105.782067
+102920,59604,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,934,rv,rv,IVR/Online,U.S. President,9/12/19,9/15/19,Biden,Joseph R. Biden Jr.,DEM,49.5,27.664827,-81.515754
+102920,59604,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,934,rv,rv,IVR/Online,U.S. President,9/12/19,9/15/19,Trump,Donald Trump,REP,50.5,27.664827,-81.515754
+102921,59604,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,934,rv,rv,IVR/Online,U.S. President,9/12/19,9/15/19,Sanders,Bernard Sanders,DEM,49.5,27.664827,-81.515754
+102921,59604,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,934,rv,rv,IVR/Online,U.S. President,9/12/19,9/15/19,Trump,Donald Trump,REP,50.5,27.664827,-81.515754
+102922,59604,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,934,rv,rv,IVR/Online,U.S. President,9/12/19,9/15/19,Harris,Kamala D. Harris,DEM,48,27.664827,-81.515754
+102922,59604,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,934,rv,rv,IVR/Online,U.S. President,9/12/19,9/15/19,Trump,Donald Trump,REP,52,27.664827,-81.515754
+102923,59604,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,934,rv,rv,IVR/Online,U.S. President,9/12/19,9/15/19,Warren,Elizabeth Warren,DEM,49.9,27.664827,-81.515754
+102923,59604,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,934,rv,rv,IVR/Online,U.S. President,9/12/19,9/15/19,Trump,Donald Trump,REP,50.1,27.664827,-81.515754
+98067,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Biden,Joseph R. Biden Jr.,DEM,50,27.664827,-81.515754
+98067,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Trump,Donald Trump,REP,41,27.664827,-81.515754
+98068,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Sanders,Bernard Sanders,DEM,48,27.664827,-81.515754
+98068,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Trump,Donald Trump,REP,42,27.664827,-81.515754
+98069,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Warren,Elizabeth Warren,DEM,47,27.664827,-81.515754
+98069,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Trump,Donald Trump,REP,43,27.664827,-81.515754
+98070,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Harris,Kamala D. Harris,DEM,45,27.664827,-81.515754
+98070,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Trump,Donald Trump,REP,44,27.664827,-81.515754
+98071,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Buttigieg,Pete Buttigieg,DEM,44,27.664827,-81.515754
+98071,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Trump,Donald Trump,REP,43,27.664827,-81.515754
+98072,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,O'Rourke,Beto O'Rourke,DEM,45,27.664827,-81.515754
+98072,58488,Florida,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1279,rv,rv,Live Phone,U.S. President,6/12/19,6/17/19,Trump,Donald Trump,REP,44,27.664827,-81.515754
+94559,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Biden,Joseph R. Biden Jr.,DEM,49.8,27.664827,-81.515754
+94559,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Trump,Donald Trump,REP,50.2,27.664827,-81.515754
+94560,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Sanders,Bernard Sanders,DEM,48.6,27.664827,-81.515754
+94560,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Trump,Donald Trump,REP,51.4,27.664827,-81.515754
+94561,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Harris,Kamala D. Harris,DEM,47.3,27.664827,-81.515754
+94561,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Trump,Donald Trump,REP,52.7,27.664827,-81.515754
+94562,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Warren,Elizabeth Warren,DEM,47.8,27.664827,-81.515754
+94562,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Trump,Donald Trump,REP,52.2,27.664827,-81.515754
+94563,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Buttigieg,Pete Buttigieg,DEM,48.3,27.664827,-81.515754
+94563,58117,Florida,Florida Atlantic University,,Florida Atlantic University,97,Florida Atlantic University,C+,1007,rv,rv,IVR/Online,U.S. President,5/16/19,5/19/19,Trump,Donald Trump,REP,51.7,27.664827,-81.515754
+93749,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Warren,Elizabeth Warren,DEM,48.6,40.551217,-85.602364
+93749,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Trump,Donald Trump,REP,51.4,40.551217,-85.602364
+93750,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Biden,Joseph R. Biden Jr.,DEM,52.8,40.551217,-85.602364
+93750,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Trump,Donald Trump,REP,47.2,40.551217,-85.602364
+93751,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Sanders,Bernard Sanders,DEM,50.9,40.551217,-85.602364
+93751,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Trump,Donald Trump,REP,49.1,40.551217,-85.602364
+93752,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Harris,Kamala D. Harris,DEM,46.4,40.551217,-85.602364
+93752,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Trump,Donald Trump,REP,53.6,40.551217,-85.602364
+93753,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Booker,Cory A. Booker,DEM,48.1,40.551217,-85.602364
+93753,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Trump,Donald Trump,REP,51.9,40.551217,-85.602364
+93754,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Warren,Elizabeth Warren,DEM,45.1,40.551217,-85.602364
+93754,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Trump,Donald Trump,REP,47.9,40.551217,-85.602364
+93754,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Schultz,Howard Schultz,DEM,7,40.551217,-85.602364
+93755,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Sanders,Bernard Sanders,DEM,45.5,40.551217,-85.602364
+93755,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Trump,Donald Trump,REP,47,40.551217,-85.602364
+93755,57742,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,707,rv,rv,Online/IVR,U.S. President,3/21/19,3/24/19,Schultz,Howard Schultz,DEM,7.5,40.551217,-85.602364
+92972,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Warren,Elizabeth Warren,DEM,48.1,40.551217,-85.602364
+92972,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,51.9,40.551217,-85.602364
+92973,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,O'Rourke,Beto O'Rourke,DEM,47,40.551217,-85.602364
+92973,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,53,40.551217,-85.602364
+92974,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Biden,Joseph R. Biden Jr.,DEM,50.6,40.551217,-85.602364
+92974,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,49.4,40.551217,-85.602364
+92975,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Sanders,Bernard Sanders,DEM,49.5,40.551217,-85.602364
+92975,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,50.5,40.551217,-85.602364
+92976,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Harris,Kamala D. Harris,DEM,46.8,40.551217,-85.602364
+92976,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,53.2,40.551217,-85.602364
+92977,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Brown,Sherrod Brown,DEM,45.5,40.551217,-85.602364
+92977,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,54.5,40.551217,-85.602364
+92978,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Gillibrand,Kirsten E. Gillibrand,DEM,46,40.551217,-85.602364
+92978,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,54,40.551217,-85.602364
+92979,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Pelosi,Nancy Pelosi,DEM,45.2,40.551217,-85.602364
+92979,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,54.8,40.551217,-85.602364
+92980,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Warren,Elizabeth Warren,DEM,40.1,40.551217,-85.602364
+92980,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Trump,Donald Trump,REP,48.5,40.551217,-85.602364
+92980,57445,Iowa,Emerson College,,Emerson College,88,Emerson College,B+,831,rv,rv,Online/IVR,U.S. President,1/30/19,2/2/19,Schultz,Howard Schultz,DEM,11.4,40.551217,-85.602364
+98598,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Sanders,Bernard Sanders,DEM,53,31.244823,-92.145024
+98598,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Trump,Donald Trump,REP,47,31.244823,-92.145024
+98599,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Biden,Joseph R. Biden Jr.,DEM,54,31.244823,-92.145024
+98599,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Trump,Donald Trump,REP,46,31.244823,-92.145024
+98600,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Warren,Elizabeth Warren,DEM,52,31.244823,-92.145024
+98600,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Trump,Donald Trump,REP,48,31.244823,-92.145024
+98601,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Buttigieg,Pete Buttigieg,DEM,51,31.244823,-92.145024
+98601,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Trump,Donald Trump,REP,49,31.244823,-92.145024
+98602,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Harris,Kamala D. Harris,DEM,52,31.244823,-92.145024
+98602,58565,Maine,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,767,rv,rv,IVR/Online,U.S. President,6/24/19,6/24/19,Trump,Donald Trump,REP,48,31.244823,-92.145024
+93988,57834,Massachusetts,Emerson College,,Emerson College,88,Emerson College,B+,761,rv,rv,Online/IVR,U.S. President,4/4/19,4/7/19,Warren,Elizabeth Warren,DEM,63.1,45.253783,-69.445469
+93988,57834,Massachusetts,Emerson College,,Emerson College,88,Emerson College,B+,761,rv,rv,Online/IVR,U.S. President,4/4/19,4/7/19,Trump,Donald Trump,REP,36.9,45.253783,-69.445469
+93989,57834,Massachusetts,Emerson College,,Emerson College,88,Emerson College,B+,761,rv,rv,Online/IVR,U.S. President,4/4/19,4/7/19,Biden,Joseph R. Biden Jr.,DEM,68.8,45.253783,-69.445469
+93989,57834,Massachusetts,Emerson College,,Emerson College,88,Emerson College,B+,761,rv,rv,Online/IVR,U.S. President,4/4/19,4/7/19,Trump,Donald Trump,REP,31.2,45.253783,-69.445469
+93990,57834,Massachusetts,Emerson College,,Emerson College,88,Emerson College,B+,761,rv,rv,Online/IVR,U.S. President,4/4/19,4/7/19,Sanders,Bernard Sanders,DEM,63.8,45.253783,-69.445469
+93990,57834,Massachusetts,Emerson College,,Emerson College,88,Emerson College,B+,761,rv,rv,Online/IVR,U.S. President,4/4/19,4/7/19,Trump,Donald Trump,REP,36.2,45.253783,-69.445469
+99803,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Biden,Joseph R. Biden Jr.,DEM,49,44.314844,-85.602364
+99803,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Trump,Donald Trump,REP,36,44.314844,-85.602364
+99804,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Sanders,Bernard Sanders,DEM,48,44.314844,-85.602364
+99804,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Trump,Donald Trump,REP,37,44.314844,-85.602364
+99805,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Warren,Elizabeth Warren,DEM,44,44.314844,-85.602364
+99805,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Trump,Donald Trump,REP,38,44.314844,-85.602364
+99806,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Harris,Kamala D. Harris,DEM,41,44.314844,-85.602364
+99806,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Trump,Donald Trump,REP,38,44.314844,-85.602364
+99807,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Buttigieg,Pete Buttigieg,DEM,40,44.314844,-85.602364
+99807,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Trump,Donald Trump,REP,37,44.314844,-85.602364
+99808,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Booker,Cory A. Booker,DEM,39,44.314844,-85.602364
+99808,58748,Michigan,Climate Nexus,,Climate Nexus,,,,820,rv,rv,Online,U.S. President,7/14/19,7/17/19,Trump,Donald Trump,REP,37,44.314844,-85.602364
+93505,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Warren,Elizabeth Warren,DEM,51.4,44.314844,-85.602364
+93505,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Trump,Donald Trump,REP,48.6,44.314844,-85.602364
+93506,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Biden,Joseph R. Biden Jr.,DEM,53.7,44.314844,-85.602364
+93506,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Trump,Donald Trump,REP,46.3,44.314844,-85.602364
+93507,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Sanders,Bernard Sanders,DEM,52.5,44.314844,-85.602364
+93507,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Trump,Donald Trump,REP,47.5,44.314844,-85.602364
+93508,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Harris,Kamala D. Harris,DEM,51.3,44.314844,-85.602364
+93508,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Trump,Donald Trump,REP,48.7,44.314844,-85.602364
+93509,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Klobuchar,Amy Klobuchar,DEM,52.8,44.314844,-85.602364
+93509,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Trump,Donald Trump,REP,47.2,44.314844,-85.602364
+93510,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Biden,Joseph R. Biden Jr.,DEM,51.8,44.314844,-85.602364
+93510,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Trump,Donald Trump,REP,44.3,44.314844,-85.602364
+93510,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Schultz,Howard Schultz,DEM,3.9,44.314844,-85.602364
+93511,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Sanders,Bernard Sanders,DEM,48.9,44.314844,-85.602364
+93511,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Trump,Donald Trump,REP,45.3,44.314844,-85.602364
+93511,57656,Michigan,Emerson College,,Emerson College,88,Emerson College,B+,743,rv,rv,Online/IVR,U.S. President,3/7/19,3/10/19,Schultz,Howard Schultz,DEM,5.8,44.314844,-85.602364
+100759,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Williamson,Marianne Williamson,DEM,40,46.879682,-110.362566
+100759,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Trump,Donald Trump,REP,48,46.879682,-110.362566
+100760,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Booker,Cory A. Booker,DEM,44,46.879682,-110.362566
+100760,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Trump,Donald Trump,REP,46,46.879682,-110.362566
+100761,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Sanders,Bernard Sanders,DEM,47,46.879682,-110.362566
+100761,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Trump,Donald Trump,REP,44,46.879682,-110.362566
+100762,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Biden,Joseph R. Biden Jr.,DEM,49,46.879682,-110.362566
+100762,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Trump,Donald Trump,REP,43,46.879682,-110.362566
+100763,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Warren,Elizabeth Warren,DEM,46,46.879682,-110.362566
+100763,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Trump,Donald Trump,REP,47,46.879682,-110.362566
+100764,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Buttigieg,Pete Buttigieg,DEM,42,46.879682,-110.362566
+100764,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Trump,Donald Trump,REP,46,46.879682,-110.362566
+100765,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Harris,Kamala D. Harris,DEM,45,46.879682,-110.362566
+100765,58933,Nevada,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,926,rv,rv,IVR/Online,U.S. President,8/14/19,8/16/19,Trump,Donald Trump,REP,45,46.879682,-110.362566
+93892,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Warren,Elizabeth Warren,DEM,46.3,46.879682,-110.362566
+93892,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Trump,Donald Trump,REP,53.7,46.879682,-110.362566
+93893,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Biden,Joseph R. Biden Jr.,DEM,51.7,46.879682,-110.362566
+93893,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Trump,Donald Trump,REP,48.3,46.879682,-110.362566
+93894,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Sanders,Bernard Sanders,DEM,48.6,46.879682,-110.362566
+93894,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Trump,Donald Trump,REP,51.4,46.879682,-110.362566
+93895,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Harris,Kamala D. Harris,DEM,49.3,46.879682,-110.362566
+93895,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Trump,Donald Trump,REP,50.7,46.879682,-110.362566
+93896,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Buttigieg,Pete Buttigieg,DEM,48,46.879682,-110.362566
+93896,57799,Nevada,Emerson College,,Emerson College,88,Emerson College,B+,719,rv,rv,Online/IVR,U.S. President,3/28/19,3/30/19,Trump,Donald Trump,REP,52,46.879682,-110.362566
+102332,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Biden,Joseph R. Biden Jr.,DEM,54.6,43.193852,-71.572395
+102332,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Trump,Donald Trump,REP,45.4,43.193852,-71.572395
+102333,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Sanders,Bernard Sanders,DEM,52.5,43.193852,-71.572395
+102333,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Trump,Donald Trump,REP,47.5,43.193852,-71.572395
+102334,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Harris,Kamala D. Harris,DEM,50.9,43.193852,-71.572395
+102334,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Trump,Donald Trump,REP,49.1,43.193852,-71.572395
+102335,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Warren,Elizabeth Warren,DEM,49.1,43.193852,-71.572395
+102335,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Trump,Donald Trump,REP,50.9,43.193852,-71.572395
+102336,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Yang,Andrew Yang,DEM,53.8,43.193852,-71.572395
+102336,59522,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,1041,rv,rv,IVR/Online,U.S. President,9/6/19,9/9/19,Trump,Donald Trump,REP,46.2,43.193852,-71.572395
+100462,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Sanders,Bernard Sanders,DEM,51,43.193852,-71.572395
+100462,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Trump,Donald Trump,REP,41,43.193852,-71.572395
+100463,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Biden,Joseph R. Biden Jr.,DEM,53,43.193852,-71.572395
+100463,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Trump,Donald Trump,REP,40,43.193852,-71.572395
+100464,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Warren,Elizabeth Warren,DEM,49,43.193852,-71.572395
+100464,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Trump,Donald Trump,REP,44,43.193852,-71.572395
+100465,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Buttigieg,Pete Buttigieg,DEM,49,43.193852,-71.572395
+100465,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Trump,Donald Trump,REP,42,43.193852,-71.572395
+100466,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Harris,Kamala D. Harris,DEM,47,43.193852,-71.572395
+100466,58891,New Hampshire,Gravis Marketing,,Gravis Marketing,124,Gravis Marketing,C+,505,rv,rv,IVR/Online,U.S. President,8/2/19,8/6/19,Trump,Donald Trump,REP,44,43.193852,-71.572395
+93280,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Warren,Elizabeth Warren,DEM,51.6,43.193852,-71.572395
+93280,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Trump,Donald Trump,REP,48.4,43.193852,-71.572395
+93281,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Biden,Joseph R. Biden Jr.,DEM,54.8,43.193852,-71.572395
+93281,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Trump,Donald Trump,REP,45.2,43.193852,-71.572395
+93282,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Sanders,Bernard Sanders,DEM,55,43.193852,-71.572395
+93282,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Trump,Donald Trump,REP,45,43.193852,-71.572395
+93283,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Harris,Kamala D. Harris,DEM,51.8,43.193852,-71.572395
+93283,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Trump,Donald Trump,REP,48.2,43.193852,-71.572395
+93284,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Booker,Cory A. Booker,DEM,50.9,43.193852,-71.572395
+93284,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Trump,Donald Trump,REP,49.1,43.193852,-71.572395
+93285,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Warren,Elizabeth Warren,DEM,43.6,43.193852,-71.572395
+93285,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Trump,Donald Trump,REP,44.7,43.193852,-71.572395
+93285,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Schultz,Howard Schultz,DEM,11.6,43.193852,-71.572395
+93286,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Sanders,Bernard Sanders,DEM,48.1,43.193852,-71.572395
+93286,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Trump,Donald Trump,REP,42.4,43.193852,-71.572395
+93286,57574,New Hampshire,Emerson College,,Emerson College,88,Emerson College,B+,910,rv,rv,Online/IVR,U.S. President,2/21/19,2/22/19,Schultz,Howard Schultz,DEM,9.6,43.193852,-71.572395
+92872,57407,New Hampshire,Praecones Analytica,New Hampshire Journal,Praecones Analytica,257,Praecones Analytica,B-,593,rv,rv,Online/IVR,U.S. President,1/16/19,1/21/19,Warren,Elizabeth Warren,DEM,53.5,43.193852,-71.572395
+92872,57407,New Hampshire,Praecones Analytica,New Hampshire Journal,Praecones Analytica,257,Praecones Analytica,B-,593,rv,rv,Online/IVR,U.S. President,1/16/19,1/21/19,Trump,Donald Trump,REP,41.4,43.193852,-71.572395
+92873,57407,New Hampshire,Praecones Analytica,New Hampshire Journal,Praecones Analytica,257,Praecones Analytica,B-,593,rv,rv,Online/IVR,U.S. President,1/16/19,1/21/19,Sanders,Bernard Sanders,DEM,54.1,43.193852,-71.572395
+92873,57407,New Hampshire,Praecones Analytica,New Hampshire Journal,Praecones Analytica,257,Praecones Analytica,B-,593,rv,rv,Online/IVR,U.S. President,1/16/19,1/21/19,Trump,Donald Trump,REP,40.8,43.193852,-71.572395
+92874,57407,New Hampshire,Praecones Analytica,New Hampshire Journal,Praecones Analytica,257,Praecones Analytica,B-,593,rv,rv,Online/IVR,U.S. President,1/16/19,1/21/19,O'Rourke,Beto O'Rourke,DEM,47.6,43.193852,-71.572395
+92874,57407,New Hampshire,Praecones Analytica,New Hampshire Journal,Praecones Analytica,257,Praecones Analytica,B-,593,rv,rv,Online/IVR,U.S. President,1/16/19,1/21/19,Trump,Donald Trump,REP,40.9,43.193852,-71.572395
+97664,58399,New York,Siena College,,Siena College,305,Siena College,A,812,rv,rv,Live Phone,U.S. President,6/2/19,6/6/19,Gillibrand,Kirsten E. Gillibrand,DEM,58,43.299428,-74.217933
+97664,58399,New York,Siena College,,Siena College,305,Siena College,A,812,rv,rv,Live Phone,U.S. President,6/2/19,6/6/19,Trump,Donald Trump,REP,34,43.299428,-74.217933
+97665,58399,New York,Siena College,,Siena College,305,Siena College,A,812,rv,rv,Live Phone,U.S. President,6/2/19,6/6/19,de Blasio,Bill de Blasio,DEM,48,43.299428,-74.217933
+97665,58399,New York,Siena College,,Siena College,305,Siena College,A,812,rv,rv,Live Phone,U.S. President,6/2/19,6/6/19,Trump,Donald Trump,REP,36,43.299428,-74.217933
+100352,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Biden,Joseph R. Biden Jr.,DEM,49,43.299428,-74.217933
+100352,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,41,43.299428,-74.217933
+100353,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Harris,Kamala D. Harris,DEM,43,43.299428,-74.217933
+100353,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,44,43.299428,-74.217933
+100354,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Buttigieg,Pete Buttigieg,DEM,41,43.299428,-74.217933
+100354,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,43,43.299428,-74.217933
+100355,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Warren,Elizabeth Warren,DEM,44,43.299428,-74.217933
+100355,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,43,43.299428,-74.217933
+100356,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Sanders,Bernard Sanders,DEM,47,43.299428,-74.217933
+100356,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,43,43.299428,-74.217933
+100357,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Winfrey,Oprah Winfrey,DEM,45,43.299428,-74.217933
+100357,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,43,43.299428,-74.217933
+100358,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Obama,Michelle Obama,DEM,50,43.299428,-74.217933
+100358,58840,North Carolina,SurveyUSA,Civitas Institute,SurveyUSA,325,SurveyUSA,A,2113,rv,rv,Online,U.S. President,8/1/19,8/5/19,Trump,Donald Trump,REP,43,43.299428,-74.217933
+98185,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Biden,Joseph R. Biden Jr.,DEM,49,43.299428,-74.217933
+98185,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Trump,Donald Trump,REP,46,43.299428,-74.217933
+98186,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Buttigieg,Pete Buttigieg,DEM,44,43.299428,-74.217933
+98186,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Trump,Donald Trump,REP,47,43.299428,-74.217933
+98187,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Harris,Kamala D. Harris,DEM,46,43.299428,-74.217933
+98187,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Trump,Donald Trump,REP,47,43.299428,-74.217933
+98188,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Sanders,Bernard Sanders,DEM,48,43.299428,-74.217933
+98188,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Trump,Donald Trump,REP,47,43.299428,-74.217933
+98189,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Warren,Elizabeth Warren,DEM,46,43.299428,-74.217933
+98189,58512,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,610,rv,rv,IVR/Online,U.S. President,6/17/19,6/18/19,Trump,Donald Trump,REP,48,43.299428,-74.217933
+94738,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Buttigieg,Pete Buttigieg,DEM,52.1,43.299428,-74.217933
+94738,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Trump,Donald Trump,REP,47.9,43.299428,-74.217933
+94739,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Sanders,Bernard Sanders,DEM,53.8,43.299428,-74.217933
+94739,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Trump,Donald Trump,REP,46.2,43.299428,-74.217933
+94740,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Harris,Kamala D. Harris,DEM,48.8,43.299428,-74.217933
+94740,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Trump,Donald Trump,REP,51.2,43.299428,-74.217933
+94741,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Warren,Elizabeth Warren,DEM,50.3,43.299428,-74.217933
+94741,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Trump,Donald Trump,REP,49.7,43.299428,-74.217933
+94742,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Biden,Joseph R. Biden Jr.,DEM,55.7,43.299428,-74.217933
+94742,58187,North Carolina,Emerson College,,Emerson College,88,Emerson College,B+,932,rv,rv,IVR/Online,U.S. President,5/31/19,6/3/19,Trump,Donald Trump,REP,44.3,43.299428,-74.217933
+92597,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Biden,Joseph R. Biden Jr.,DEM,49,43.299428,-74.217933
+92597,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Trump,Donald Trump,REP,44,43.299428,-74.217933
+92598,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Booker,Cory A. Booker,DEM,45,43.299428,-74.217933
+92598,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Trump,Donald Trump,REP,46,43.299428,-74.217933
+92599,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Harris,Kamala D. Harris,DEM,45,43.299428,-74.217933
+92599,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Trump,Donald Trump,REP,45,43.299428,-74.217933
+92600,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,O'Rourke,Beto O'Rourke,DEM,45,43.299428,-74.217933
+92600,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Trump,Donald Trump,REP,46,43.299428,-74.217933
+92601,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Sanders,Bernard Sanders,DEM,48,43.299428,-74.217933
+92601,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Trump,Donald Trump,REP,45,43.299428,-74.217933
+92602,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Warren,Elizabeth Warren,DEM,46,43.299428,-74.217933
+92602,57275,North Carolina,Public Policy Polling,,Public Policy Polling,263,Public Policy Polling,B,750,rv,rv,IVR/Online,U.S. President,1/4/19,1/7/19,Trump,Donald Trump,REP,46,43.299428,-74.217933
+99734,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Biden,Joseph R. Biden Jr.,DEM,50,40.417287,-82.907123
+99734,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Trump,Donald Trump,REP,42,40.417287,-82.907123
+99735,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Sanders,Bernard Sanders,DEM,45,40.417287,-82.907123
+99735,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Trump,Donald Trump,REP,46,40.417287,-82.907123
+99736,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Warren,Elizabeth Warren,DEM,45,40.417287,-82.907123
+99736,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Trump,Donald Trump,REP,46,40.417287,-82.907123
+99737,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Harris,Kamala D. Harris,DEM,44,40.417287,-82.907123
+99737,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Trump,Donald Trump,REP,44,40.417287,-82.907123
+99738,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Buttigieg,Pete Buttigieg,DEM,44,40.417287,-82.907123
+99738,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Trump,Donald Trump,REP,44,40.417287,-82.907123
+99739,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Booker,Cory A. Booker,DEM,43,40.417287,-82.907123
+99739,58733,Ohio,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1431,rv,rv,Live Phone,U.S. President,7/17/19,7/22/19,Trump,Donald Trump,REP,44,40.417287,-82.907123
+94491,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Biden,Joseph R. Biden Jr.,DEM,53,41.203322,-77.194525
+94491,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Trump,Donald Trump,REP,42,41.203322,-77.194525
+94492,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Sanders,Bernard Sanders,DEM,50,41.203322,-77.194525
+94492,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Trump,Donald Trump,REP,43,41.203322,-77.194525
+94493,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Warren,Elizabeth Warren,DEM,47,41.203322,-77.194525
+94493,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Trump,Donald Trump,REP,44,41.203322,-77.194525
+94494,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Harris,Kamala D. Harris,DEM,45,41.203322,-77.194525
+94494,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Trump,Donald Trump,REP,45,41.203322,-77.194525
+94495,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Buttigieg,Pete Buttigieg,DEM,45,41.203322,-77.194525
+94495,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Trump,Donald Trump,REP,44,41.203322,-77.194525
+94496,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,O'Rourke,Beto O'Rourke,DEM,44,41.203322,-77.194525
+94496,58082,Pennsylvania,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,978,rv,rv,Live Phone,U.S. President,5/9/19,5/14/19,Trump,Donald Trump,REP,46,41.203322,-77.194525
+93866,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Warren,Elizabeth Warren,DEM,52.4,41.203322,-77.194525
+93866,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Trump,Donald Trump,REP,47.6,41.203322,-77.194525
+93867,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Biden,Joseph R. Biden Jr.,DEM,54.8,41.203322,-77.194525
+93867,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Trump,Donald Trump,REP,45.2,41.203322,-77.194525
+93868,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Sanders,Bernard Sanders,DEM,54.6,41.203322,-77.194525
+93868,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Trump,Donald Trump,REP,45.4,41.203322,-77.194525
+93869,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Harris,Kamala D. Harris,DEM,50.7,41.203322,-77.194525
+93869,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Trump,Donald Trump,REP,49.3,41.203322,-77.194525
+93870,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,O'Rourke,Beto O'Rourke,DEM,50.8,41.203322,-77.194525
+93870,57788,Pennsylvania,Emerson College,,Emerson College,88,Emerson College,B+,808,rv,rv,Online/IVR,U.S. President,3/26/19,3/28/19,Trump,Donald Trump,REP,49.2,41.203322,-77.194525
+98742,58465,South Carolina,Change Research,The Post and Courier,Change Research,48,Change Research,C+,2312,rv,rv,Online,U.S. President,6/11/19,6/14/19,Biden,Joseph R. Biden Jr.,DEM,38,33.836081,-81.163725
+98742,58465,South Carolina,Change Research,The Post and Courier,Change Research,48,Change Research,C+,2312,rv,rv,Online,U.S. President,6/11/19,6/14/19,Trump,Donald Trump,REP,54,33.836081,-81.163725
+98743,58465,South Carolina,Change Research,The Post and Courier,Change Research,48,Change Research,C+,2312,rv,rv,Online,U.S. President,6/11/19,6/14/19,Booker,Cory A. Booker,DEM,32,33.836081,-81.163725
+98743,58465,South Carolina,Change Research,The Post and Courier,Change Research,48,Change Research,C+,2312,rv,rv,Online,U.S. President,6/11/19,6/14/19,Trump,Donald Trump,REP,54,33.836081,-81.163725
+98744,58465,South Carolina,Change Research,The Post and Courier,Change Research,48,Change Research,C+,2312,rv,rv,Online,U.S. President,6/11/19,6/14/19,Sanders,Bernard Sanders,DEM,34,33.836081,-81.163725
+98744,58465,South Carolina,Change Research,The Post and Courier,Change Research,48,Change Research,C+,2312,rv,rv,Online,U.S. President,6/11/19,6/14/19,Trump,Donald Trump,REP,54,33.836081,-81.163725
+98745,58465,South Carolina,Change Research,The Post and Courier,Change Research,48,Change Research,C+,2312,rv,rv,Online,U.S. President,6/11/19,6/14/19,Harris,Kamala D. Harris,DEM,33,33.836081,-81.163725
+98745,58465,South Carolina,Change Research,The Post and Courier,Change Research,48,Change Research,C+,2312,rv,rv,Online,U.S. President,6/11/19,6/14/19,Trump,Donald Trump,REP,54,33.836081,-81.163725
+93400,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Warren,Elizabeth Warren,DEM,46,33.836081,-81.163725
+93400,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,54,33.836081,-81.163725
+93401,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Biden,Joseph R. Biden Jr.,DEM,48.1,33.836081,-81.163725
+93401,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,51.9,33.836081,-81.163725
+93402,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Sanders,Bernard Sanders,DEM,46.1,33.836081,-81.163725
+93402,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,53.9,33.836081,-81.163725
+93403,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Harris,Kamala D. Harris,DEM,44.1,33.836081,-81.163725
+93403,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,55.9,33.836081,-81.163725
+93404,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Booker,Cory A. Booker,DEM,45.8,33.836081,-81.163725
+93404,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,54.2,33.836081,-81.163725
+93405,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,O'Rourke,Beto O'Rourke,DEM,43.9,33.836081,-81.163725
+93405,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,56.1,33.836081,-81.163725
+93406,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Klobuchar,Amy Klobuchar,DEM,43.9,33.836081,-81.163725
+93406,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,56.1,33.836081,-81.163725
+93407,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Warren,Elizabeth Warren,DEM,40.6,33.836081,-81.163725
+93407,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,52.5,33.836081,-81.163725
+93407,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Schultz,Howard Schultz,DEM,6.9,33.836081,-81.163725
+93408,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Sanders,Bernard Sanders,DEM,42.2,33.836081,-81.163725
+93408,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Trump,Donald Trump,REP,51.3,33.836081,-81.163725
+93408,57612,South Carolina,Emerson College,,Emerson College,88,Emerson College,B+,755,rv,rv,Online/IVR,U.S. President,2/28/19,3/2/19,Schultz,Howard Schultz,DEM,6.5,33.836081,-81.163725
+102981,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Biden,Joseph R. Biden Jr.,DEM,39.6,31.968599,-99.901813
+102981,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,38,31.968599,-99.901813
+102982,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Warren,Elizabeth Warren,DEM,36.5,31.968599,-99.901813
+102982,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,39.5,31.968599,-99.901813
+102983,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Harris,Kamala D. Harris,DEM,31.8,31.968599,-99.901813
+102983,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,39.4,31.968599,-99.901813
+102984,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Sanders,Bernard Sanders,DEM,37.9,31.968599,-99.901813
+102984,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,39.6,31.968599,-99.901813
+102985,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Buttigieg,Pete Buttigieg,DEM,30.4,31.968599,-99.901813
+102985,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,39.3,31.968599,-99.901813
+102986,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,O'Rourke,Beto O'Rourke,DEM,42,31.968599,-99.901813
+102986,59616,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1199,rv,rv,Online,U.S. President,9/13/19,9/15/19,Trump,Donald Trump,REP,39.7,31.968599,-99.901813
+102339,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Biden,Joseph R. Biden Jr.,DEM,47,31.968599,-99.901813
+102339,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Trump,Donald Trump,REP,43,31.968599,-99.901813
+102340,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Sanders,Bernard Sanders,DEM,48,31.968599,-99.901813
+102340,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Trump,Donald Trump,REP,42,31.968599,-99.901813
+102341,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Warren,Elizabeth Warren,DEM,44,31.968599,-99.901813
+102341,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Trump,Donald Trump,REP,42,31.968599,-99.901813
+102342,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Harris,Kamala D. Harris,DEM,45,31.968599,-99.901813
+102342,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Trump,Donald Trump,REP,44,31.968599,-99.901813
+102343,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Castro,Juli√°n Castro,DEM,44,31.968599,-99.901813
+102343,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Trump,Donald Trump,REP,41,31.968599,-99.901813
+102344,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Booker,Cory A. Booker,DEM,43,31.968599,-99.901813
+102344,59523,Texas,Univision/University of Houston/Latino Decisions/North Star Opinion Research,Univision,Univision/University of Houston/Latino Decisions/North Star Opinion Research,,,,1004,rv,rv,Live Phone/Online,U.S. President,8/31/19,9/6/19,Trump,Donald Trump,REP,41,31.968599,-99.901813
+102447,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Biden,Joseph R. Biden Jr.,DEM,43,31.968599,-99.901813
+102447,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Trump,Donald Trump,REP,43,31.968599,-99.901813
+102448,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Sanders,Bernard Sanders,DEM,41,31.968599,-99.901813
+102448,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Trump,Donald Trump,REP,45,31.968599,-99.901813
+102449,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Warren,Elizabeth Warren,DEM,39,31.968599,-99.901813
+102449,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Trump,Donald Trump,REP,45,31.968599,-99.901813
+102450,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Harris,Kamala D. Harris,DEM,37,31.968599,-99.901813
+102450,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Trump,Donald Trump,REP,45,31.968599,-99.901813
+102451,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Buttigieg,Pete Buttigieg,DEM,36,31.968599,-99.901813
+102451,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Trump,Donald Trump,REP,44,31.968599,-99.901813
+102452,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,O'Rourke,Beto O'Rourke,DEM,44,31.968599,-99.901813
+102452,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Trump,Donald Trump,REP,45,31.968599,-99.901813
+102453,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Castro,Juli√°n Castro,DEM,37,31.968599,-99.901813
+102453,59537,Texas,Climate Nexus,,Climate Nexus,,,,1660,rv,rv,Online,U.S. President,8/20/19,8/25/19,Trump,Donald Trump,REP,45,31.968599,-99.901813
+100179,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Biden,Joseph R. Biden Jr.,DEM,50.8,31.968599,-99.901813
+100179,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Trump,Donald Trump,REP,49.2,31.968599,-99.901813
+100180,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Sanders,Bernard Sanders,DEM,50.6,31.968599,-99.901813
+100180,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Trump,Donald Trump,REP,49.4,31.968599,-99.901813
+100181,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,O'Rourke,Beto O'Rourke,DEM,48.1,31.968599,-99.901813
+100181,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Trump,Donald Trump,REP,51.9,31.968599,-99.901813
+100182,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Buttigieg,Pete Buttigieg,DEM,48,31.968599,-99.901813
+100182,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Trump,Donald Trump,REP,52,31.968599,-99.901813
+100183,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Warren,Elizabeth Warren,DEM,47.6,31.968599,-99.901813
+100183,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Trump,Donald Trump,REP,52.4,31.968599,-99.901813
+100184,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Castro,Juli√°n Castro,DEM,47.2,31.968599,-99.901813
+100184,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Trump,Donald Trump,REP,52.8,31.968599,-99.901813
+100185,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Harris,Kamala D. Harris,DEM,46.2,31.968599,-99.901813
+100185,58821,Texas,Emerson College,Dallas Morning News,Emerson College,88,Emerson College,B+,1033,rv,rv,IVR/Online,U.S. President,8/1/19,8/3/19,Trump,Donald Trump,REP,53.8,31.968599,-99.901813
+100189,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Biden,Joseph R. Biden Jr.,DEM,41.2,31.968599,-99.901813
+100189,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Trump,Donald Trump,REP,37.2,31.968599,-99.901813
+100190,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Warren,Elizabeth Warren,DEM,37.4,31.968599,-99.901813
+100190,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Trump,Donald Trump,REP,38.8,31.968599,-99.901813
+100191,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Harris,Kamala D. Harris,DEM,35.4,31.968599,-99.901813
+100191,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Trump,Donald Trump,REP,38.5,31.968599,-99.901813
+100192,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Sanders,Bernard Sanders,DEM,42.2,31.968599,-99.901813
+100192,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Trump,Donald Trump,REP,37.7,31.968599,-99.901813
+100193,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Buttigieg,Pete Buttigieg,DEM,31.2,31.968599,-99.901813
+100193,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Trump,Donald Trump,REP,37.5,31.968599,-99.901813
+100194,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,O'Rourke,Beto O'Rourke,DEM,43,31.968599,-99.901813
+100194,58823,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1261,rv,rv,Online,U.S. President,8/1/19,8/4/19,Trump,Donald Trump,REP,37.3,31.968599,-99.901813
+99863,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Biden,Joseph R. Biden Jr.,DEM,36.9,31.968599,-99.901813
+99863,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Trump,Donald Trump,REP,37.1,31.968599,-99.901813
+99864,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Warren,Elizabeth Warren,DEM,40.7,31.968599,-99.901813
+99864,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Trump,Donald Trump,REP,38.2,31.968599,-99.901813
+99865,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Harris,Kamala D. Harris,DEM,39.8,31.968599,-99.901813
+99865,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Trump,Donald Trump,REP,38.5,31.968599,-99.901813
+99866,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Sanders,Bernard Sanders,DEM,39.2,31.968599,-99.901813
+99866,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Trump,Donald Trump,REP,37.3,31.968599,-99.901813
+99867,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Buttigieg,Pete Buttigieg,DEM,33,31.968599,-99.901813
+99867,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Trump,Donald Trump,REP,38.6,31.968599,-99.901813
+99868,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,O'Rourke,Beto O'Rourke,DEM,48.8,31.968599,-99.901813
+99868,58764,Texas,University of Texas - Tyler,,University of Texas at Tyler,458,University of Texas - Tyler,,1414,rv,rv,Online,U.S. President,7/24/19,7/27/19,Trump,Donald Trump,REP,37.6,31.968599,-99.901813
+94777,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Biden,Joseph R. Biden Jr.,DEM,48,31.968599,-99.901813
+94777,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Trump,Donald Trump,REP,44,31.968599,-99.901813
+94778,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Sanders,Bernard Sanders,DEM,44,31.968599,-99.901813
+94778,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Trump,Donald Trump,REP,47,31.968599,-99.901813
+94779,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Warren,Elizabeth Warren,DEM,45,31.968599,-99.901813
+94779,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Trump,Donald Trump,REP,46,31.968599,-99.901813
+94780,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Harris,Kamala D. Harris,DEM,43,31.968599,-99.901813
+94780,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Trump,Donald Trump,REP,47,31.968599,-99.901813
+94781,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Buttigieg,Pete Buttigieg,DEM,44,31.968599,-99.901813
+94781,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Trump,Donald Trump,REP,46,31.968599,-99.901813
+94782,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,O'Rourke,Beto O'Rourke,DEM,45,31.968599,-99.901813
+94782,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Trump,Donald Trump,REP,48,31.968599,-99.901813
+94783,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Castro,Juli√°n Castro,DEM,43,31.968599,-99.901813
+94783,58198,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1159,rv,rv,Live Phone,U.S. President,5/29/19,6/4/19,Trump,Donald Trump,REP,46,31.968599,-99.901813
+94251,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Biden,Joseph R. Biden Jr.,DEM,50.5,31.968599,-99.901813
+94251,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Trump,Donald Trump,REP,49.5,31.968599,-99.901813
+94252,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,O'Rourke,Beto O'Rourke,DEM,50.3,31.968599,-99.901813
+94252,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Trump,Donald Trump,REP,49.7,31.968599,-99.901813
+94253,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Sanders,Bernard Sanders,DEM,48.9,31.968599,-99.901813
+94253,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Trump,Donald Trump,REP,51.1,31.968599,-99.901813
+94254,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Harris,Kamala D. Harris,DEM,45.8,31.968599,-99.901813
+94254,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Trump,Donald Trump,REP,54.2,31.968599,-99.901813
+94255,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Warren,Elizabeth Warren,DEM,46.9,31.968599,-99.901813
+94255,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Trump,Donald Trump,REP,53.1,31.968599,-99.901813
+94256,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Buttigieg,Pete Buttigieg,DEM,46.3,31.968599,-99.901813
+94256,57962,Texas,Emerson College,,Emerson College,88,Emerson College,B+,799,rv,rv,IVR/Online,U.S. President,4/25/19,4/28/19,Trump,Donald Trump,REP,53.7,31.968599,-99.901813
+93369,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Biden,Joseph R. Biden Jr.,DEM,46,31.968599,-99.901813
+93369,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Trump,Donald Trump,REP,47,31.968599,-99.901813
+93370,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Sanders,Bernard Sanders,DEM,45,31.968599,-99.901813
+93370,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Trump,Donald Trump,REP,47,31.968599,-99.901813
+93371,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,O'Rourke,Beto O'Rourke,DEM,46,31.968599,-99.901813
+93371,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Trump,Donald Trump,REP,47,31.968599,-99.901813
+93372,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Harris,Kamala D. Harris,DEM,41,31.968599,-99.901813
+93372,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Trump,Donald Trump,REP,48,31.968599,-99.901813
+93373,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Warren,Elizabeth Warren,DEM,41,31.968599,-99.901813
+93373,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Trump,Donald Trump,REP,48,31.968599,-99.901813
+93374,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Castro,Juli√°n Castro,DEM,41,31.968599,-99.901813
+93374,57601,Texas,Quinnipiac University,,Quinnipiac University,267,Quinnipiac University,A-,1222,rv,rv,Live Phone,U.S. President,2/20/19,2/25/19,Trump,Donald Trump,REP,46,31.968599,-99.901813
+102057,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,144,rv,rv,Online,U.S. President,7/31/19,8/6/19,Harris,Kamala D. Harris,DEM,33,39.32098,-111.093731
+102057,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,144,rv,rv,Online,U.S. President,7/31/19,8/6/19,Trump,Donald Trump,REP,48,39.32098,-111.093731
+102058,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,144,rv,rv,Online,U.S. President,7/31/19,8/6/19,Buttigieg,Pete Buttigieg,DEM,28,39.32098,-111.093731
+102058,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,144,rv,rv,Online,U.S. President,7/31/19,8/6/19,Trump,Donald Trump,REP,48,39.32098,-111.093731
+102059,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,140,rv,rv,Online,U.S. President,7/31/19,8/6/19,O'Rourke,Beto O'Rourke,DEM,27,39.32098,-111.093731
+102059,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,140,rv,rv,Online,U.S. President,7/31/19,8/6/19,Trump,Donald Trump,REP,41,39.32098,-111.093731
+102060,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,144,rv,rv,Online,U.S. President,7/31/19,8/6/19,Warren,Elizabeth Warren,DEM,36,39.32098,-111.093731
+102060,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,144,rv,rv,Online,U.S. President,7/31/19,8/6/19,Trump,Donald Trump,REP,39,39.32098,-111.093731
+102061,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,143,rv,rv,Online,U.S. President,7/31/19,8/6/19,Sanders,Bernard Sanders,DEM,44,39.32098,-111.093731
+102061,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,143,rv,rv,Online,U.S. President,7/31/19,8/6/19,Trump,Donald Trump,REP,38,39.32098,-111.093731
+102062,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,149,rv,rv,Online,U.S. President,7/31/19,8/6/19,Biden,Joseph R. Biden Jr.,DEM,35,39.32098,-111.093731
+102062,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,149,rv,rv,Online,U.S. President,7/31/19,8/6/19,Trump,Donald Trump,REP,36,39.32098,-111.093731
+102063,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,153,rv,rv,Online,U.S. President,7/31/19,8/6/19,Booker,Cory A. Booker,DEM,43,39.32098,-111.093731
+102063,59465,Utah,Y2 Analytics,Utah Policy,Y2 Analytics,389,Y2 Analytics,B,153,rv,rv,Online,U.S. President,7/31/19,8/6/19,Trump,Donald Trump,REP,31,39.32098,-111.093731
+103412,59725,Virginia,Research America Inc.,University of Mary Washington,Research America Inc.,282,Research America Inc.,C+,882,rv,rv,Live Phone,U.S. President,9/3/19,9/15/19,Biden,Joseph R. Biden Jr.,DEM,55,37.431573,-78.656894
+103412,59725,Virginia,Research America Inc.,University of Mary Washington,Research America Inc.,282,Research America Inc.,C+,882,rv,rv,Live Phone,U.S. President,9/3/19,9/15/19,Trump,Donald Trump,REP,38,37.431573,-78.656894
+103413,59725,Virginia,Research America Inc.,University of Mary Washington,Research America Inc.,282,Research America Inc.,C+,882,rv,rv,Live Phone,U.S. President,9/3/19,9/15/19,Warren,Elizabeth Warren,DEM,52,37.431573,-78.656894
+103413,59725,Virginia,Research America Inc.,University of Mary Washington,Research America Inc.,282,Research America Inc.,C+,882,rv,rv,Live Phone,U.S. President,9/3/19,9/15/19,Trump,Donald Trump,REP,39,37.431573,-78.656894
+103414,59725,Virginia,Research America Inc.,University of Mary Washington,Research America Inc.,282,Research America Inc.,C+,882,rv,rv,Live Phone,U.S. President,9/3/19,9/15/19,Sanders,Bernard Sanders,DEM,52,37.431573,-78.656894
+103414,59725,Virginia,Research America Inc.,University of Mary Washington,Research America Inc.,282,Research America Inc.,C+,882,rv,rv,Live Phone,U.S. President,9/3/19,9/15/19,Trump,Donald Trump,REP,39,37.431573,-78.656894
+103415,59725,Virginia,Research America Inc.,University of Mary Washington,Research America Inc.,282,Research America Inc.,C+,882,rv,rv,Live Phone,U.S. President,9/3/19,9/15/19,Harris,Kamala D. Harris,DEM,50,37.431573,-78.656894
+103415,59725,Virginia,Research America Inc.,University of Mary Washington,Research America Inc.,282,Research America Inc.,C+,882,rv,rv,Live Phone,U.S. President,9/3/19,9/15/19,Trump,Donald Trump,REP,39,37.431573,-78.656894
+102228,59488,Wisconsin,Marquette University Law School,,Marquette Law School,195,Marquette University Law School,A,800,rv,rv,Live Phone,U.S. President,8/25/19,8/29/19,Biden,Joseph R. Biden Jr.,DEM,51,38.597626,-80.454903
+102228,59488,Wisconsin,Marquette University Law School,,Marquette Law School,195,Marquette University Law School,A,800,rv,rv,Live Phone,U.S. President,8/25/19,8/29/19,Trump,Donald Trump,REP,42,38.597626,-80.454903
+102229,59488,Wisconsin,Marquette University Law School,,Marquette Law School,195,Marquette University Law School,A,800,rv,rv,Live Phone,U.S. President,8/25/19,8/29/19,Sanders,Bernard Sanders,DEM,48,38.597626,-80.454903
+102229,59488,Wisconsin,Marquette University Law School,,Marquette Law School,195,Marquette University Law School,A,800,rv,rv,Live Phone,U.S. President,8/25/19,8/29/19,Trump,Donald Trump,REP,44,38.597626,-80.454903
+102230,59488,Wisconsin,Marquette University Law School,,Marquette Law School,195,Marquette University Law School,A,800,rv,rv,Live Phone,U.S. President,8/25/19,8/29/19,Warren,Elizabeth Warren,DEM,45,38.597626,-80.454903
+102230,59488,Wisconsin,Marquette University Law School,,Marquette Law School,195,Marquette University Law School,A,800,rv,rv,Live Phone,U.S. President,8/25/19,8/29/19,Trump,Donald Trump,REP,45,38.597626,-80.454903
+102231,59488,Wisconsin,Marquette University Law School,,Marquette Law School,195,Marquette University Law School,A,800,rv,rv,Live Phone,U.S. President,8/25/19,8/29/19,Harris,Kamala D. Harris,DEM,44,38.597626,-80.454903
+102231,59488,Wisconsin,Marquette University Law School,,Marquette Law School,195,Marquette University Law School,A,800,rv,rv,Live Phone,U.S. President,8/25/19,8/29/19,Trump,Donald Trump,REP,44,38.597626,-80.454903
+93611,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Warren,Elizabeth Warren,DEM,52.1,38.597626,-80.454903
+93611,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Trump,Donald Trump,REP,47.9,38.597626,-80.454903
+93612,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Biden,Joseph R. Biden Jr.,DEM,54.3,38.597626,-80.454903
+93612,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Trump,Donald Trump,REP,45.7,38.597626,-80.454903
+93613,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Sanders,Bernard Sanders,DEM,52.1,38.597626,-80.454903
+93613,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Trump,Donald Trump,REP,47.9,38.597626,-80.454903
+93614,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Harris,Kamala D. Harris,DEM,49.8,38.597626,-80.454903
+93614,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Trump,Donald Trump,REP,50.2,38.597626,-80.454903
+93615,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,O'Rourke,Beto O'Rourke,DEM,50.8,38.597626,-80.454903
+93615,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Trump,Donald Trump,REP,49.2,38.597626,-80.454903
+93616,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Klobuchar,Amy Klobuchar,DEM,50.4,38.597626,-80.454903
+93616,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Trump,Donald Trump,REP,49.6,38.597626,-80.454903
+93617,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Biden,Joseph R. Biden Jr.,DEM,51.2,38.597626,-80.454903
+93617,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Trump,Donald Trump,REP,44.4,38.597626,-80.454903
+93617,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Schultz,Howard Schultz,DEM,4.4,38.597626,-80.454903
+93618,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Sanders,Bernard Sanders,DEM,48.4,38.597626,-80.454903
+93618,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Trump,Donald Trump,REP,46.2,38.597626,-80.454903
+93618,57697,Wisconsin,Emerson College,,Emerson College,88,Emerson College,B+,775,rv,rv,Online/IVR,U.S. President,3/15/19,3/17/19,Schultz,Howard Schultz,DEM,5.4,38.597626,-80.454903
